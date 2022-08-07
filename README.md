@@ -1,11 +1,11 @@
 # Grupo5
 Grupo para la practica anual de la materia Electronica Microcontrolada
 
-#DOCENTES 
+DOCENTES 
 - Jorge E. Morales
 - C. Gonzalo Vera.
 
-#INTEGRANTES 
+INTEGRANTES 
 - Canio Ernesto.
 - Canio Ivan.
 - Mauro Yamil Martinez.

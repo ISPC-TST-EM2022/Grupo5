@@ -23,7 +23,7 @@ Grupo para la practica anual de la materia Electronica Microcontrolada
  Fecha, y Lugar                                                                                                                                                         
  Numero de grupo e Integrantes del mismo.                                                                                                                               
  
- **Esta actividad se encuentra en la carpeta Proyecto Nº1 con el desarrollo de los temas solicitados:**
+ **Esta actividad se encuentra en la carpeta [Actividad Nº1 SOC ESP](https://github.com/EMTSTISPC/Grupo5/tree/main/Actividad%20N%C2%BA1%20SOC%20ESP) con el desarrollo de los temas solicitados:**
  - [INFORME SOBRE SOC ESP32.pdf](https://github.com/EMTSTISPC/Grupo5/blob/main/Actividad%20N%C2%BA1%20SOC%20ESP/INFORME%20SOBRE%20%20SOC%20ESP32%20.pdf) :heavy_check_mark:
 
  - [INFORME SOBRE SOC ESP8266.pdf](https://github.com/EMTSTISPC/Grupo5/blob/main/Actividad%20N%C2%BA1%20SOC%20ESP/INFORME%20SOBRE%20%20SOC%20ESP8266.pdf) :heavy_check_mark:
@@ -41,5 +41,8 @@ Grupo para la practica anual de la materia Electronica Microcontrolada
   a) Crear cuaderno PDF de la carpeta “Referencia de la gama media mejorada”. Incluir todas las subcarpetas hasta Interrupciones.                                     
   b) Entrar a la carpeta “configuración del programa de ejemplo” y realizar las 4 prácticas.                                                                           
   
-  **Desarrollo de los temas solicitados:**
-  - Actividad1/AVR2.a/EstructuraControladorAVR8bits.pdf
+  **Esta actividad se encuentra en la carpeta [Actividad Nº2](https://github.com/EMTSTISPC/Grupo5/tree/main/Actividad%20N%C2%BA2) con el desarrollo de los temas solicitados**
+  - [Carpeta estructura controlador AVR 8bits](https://github.com/EMTSTISPC/Grupo5/tree/main/Actividad%20N%C2%BA2/Estructura%20del%20controlador%20AVR%20de%208%20bits) con su respectivo [archivo.pdf](https://github.com/EMTSTISPC/Grupo5/blob/main/Actividad%20N%C2%BA2/Estructura%20del%20controlador%20AVR%20de%208%20bits/Estructura%20controlador%20AVR%208bits.pdf) :heavy_check_mark:  
+  - [Carpeta Perifericos AVR de 8 bits](https://github.com/EMTSTISPC/Grupo5/tree/main/Actividad%20N%C2%BA2/Perifericos%20AVR%20de%208%20bits) con su respectivo [archivo.pdf](https://github.com/EMTSTISPC/Grupo5/blob/main/Actividad%20N%C2%BA2/Perifericos%20AVR%20de%208%20bits/Perifericos%20AVR%20de%208%20bits..pdf) :heavy_check_mark:                                                                                                                                                     
+  - Carpeta "Referencia de la gama media mejorada" :arrows_clockwise: ***en proceso*** :arrows_clockwise:             
+  - Carpeta "Configuracion del programa de ejemplo" :arrows_clockwise: ***en proceso*** :arrows_clockwise:

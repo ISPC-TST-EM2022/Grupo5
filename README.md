@@ -6,6 +6,7 @@ Grupo para la practica anual de la materia Electronica Microcontrolada
 - C. Gonzalo Vera.
 
 **INTEGRANTES** 
+- Barea Silvana.
 - Canio Ernesto.
 - Canio Ivan.
 - Mauro Yamil Martinez.

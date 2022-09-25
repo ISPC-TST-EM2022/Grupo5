@@ -29,7 +29,7 @@ Grupo para la practica anual de la materia Electronica Microcontrolada
 
  - [INFORME SOBRE SOC ESP8266.pdf](https://github.com/EMTSTISPC/Grupo5/blob/main/Actividad%20N%C2%BA1%20SOC%20ESP/INFORME%20SOBRE%20%20SOC%20ESP8266.pdf) :heavy_check_mark:
  
- ## Carpeta **Actividad Nº2** _En desarrollo_
+ ## Carpeta **Actividad Nº2**
  **Microcontroladores AVR de 8 bits**
  
  ***Consignas:***                                                                                                                                                       
@@ -46,3 +46,10 @@ Grupo para la practica anual de la materia Electronica Microcontrolada
   - Carpeta [Estructura del controlador AVR 8 bits](https://github.com/EMTSTISPC/Grupo5/tree/main/Actividad%20N%C2%BA2/Estructura%20del%20controlador%20AVR%20de%208%20bits) con su respectivo [archivo.pdf](https://github.com/EMTSTISPC/Grupo5/blob/main/Actividad%20N%C2%BA2/Estructura%20del%20controlador%20AVR%20de%208%20bits/Estructura%20controlador%20AVR%208bits.pdf) :heavy_check_mark:  
   - Carpeta [Perifericos AVR de 8 bits](https://github.com/EMTSTISPC/Grupo5/tree/main/Actividad%20N%C2%BA2/Perifericos%20AVR%20de%208%20bits) con su respectivo [archivo.pdf](https://github.com/EMTSTISPC/Grupo5/blob/main/Actividad%20N%C2%BA2/Perifericos%20AVR%20de%208%20bits/Perifericos%20AVR%20de%208%20bits..pdf) :heavy_check_mark:                                                                                                                                                     
   - Carpeta [PIC](https://github.com/EMTSTISPC/Grupo5/tree/main/Actividad%20N%C2%BA2/PIC) con su respectivo pdf [Referencia de la gama media mejorada](https://github.com/EMTSTISPC/Grupo5/tree/main/Actividad%20N%C2%BA2/PIC) :heavy_check_mark:
+
+ ## Carpeta **Actividad Nº3**
+ 
+ ## Carpeta **Actividad Nº4**
+ 
+  ## Carpeta **Auto**
+  **Desarrollo Del Auto VERCONSEP**
